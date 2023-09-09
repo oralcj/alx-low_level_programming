@@ -6,7 +6,7 @@
  *
  */
 
-init main(void)
+int main(void)
 {
 	char acharacter;
 	int ainteger;
