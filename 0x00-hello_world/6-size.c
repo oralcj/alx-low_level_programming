@@ -5,7 +5,8 @@
  * Return: always 0 (success)
  */
 
-int main(){
+int main(void)
+{
 	char acharacter;
 	int ainteger;
 	long along;
