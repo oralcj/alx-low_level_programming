@@ -3,7 +3,7 @@
  * main - ENTRY POINT
  * Return: Always 0 (success)
  */
-int main(0)
+int main(void)
 {
 	int i, j;
 	int a, b, c, d;
